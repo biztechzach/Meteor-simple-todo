@@ -1,2 +1,3 @@
 # Meteor-simple-todo
-Simple todo app using Meteor framework
+Simple todo app using Meteor framework. <br>
+Used to test the Meteor stack.
